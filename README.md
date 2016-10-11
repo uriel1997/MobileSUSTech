@@ -42,9 +42,10 @@
 
 ### 使用 Python 开发后端
 *  熟悉语言
-*  Web 框架
-*  与数据库交互
-*  与前端交互
+*  Web 框架:django/flask
+*  数据库:mongdb,mysql,redis
+*  服务器:linux,nginx,http协议
+*  前端:js,jquery
 
 ## 证书
 此项目为个人开发的开源代码项目。项目代码可以用于个人、非营利组织学习，也可以自由使用。但是如果代码需要被写入类似的 Apple Store 应用或者被使用进行营利活动，请联系我进行授权。
